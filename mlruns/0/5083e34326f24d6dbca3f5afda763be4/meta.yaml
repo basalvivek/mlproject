@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlproject/mlruns/0/5083e34326f24d6dbca3f5afda763be4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5083e34326f24d6dbca3f5afda763be4
+run_name: salty-snail-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756315481965
+status: 1
+tags: []
+user_id: root
